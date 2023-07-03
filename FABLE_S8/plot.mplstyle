@@ -1,0 +1,21 @@
+figure.figsize : 6,6
+axes.labelsize : 16
+legend.frameon : False
+xtick.direction : in
+xtick.top : True
+ytick.direction :in
+ytick.right : True
+axes.linewidth : 2
+xtick.major.size : 6
+xtick.minor.size : 3
+ytick.major.size : 6
+ytick.minor.size : 3
+xtick.major.width : 2.5
+xtick.minor.width : 2
+ytick.major.width : 2.5
+ytick.minor.width : 2
+xtick.labelsize : 14
+ytick.labelsize : 14
+legend.fontsize : 14
+legend.title_fontsize : 14
+axes.titlesize : 14
